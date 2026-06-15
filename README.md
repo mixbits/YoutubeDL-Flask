@@ -1,4 +1,4 @@
-# (Youtubedl) YouTube Downloader Web App Installation Guide
+# (YoutubeDL-Flask) YouTube Downloader Web App Installation Guide
 Self-hosted web GUI for yt-dlp. Youtube URL MP4 downloader
 
 ## Overview
